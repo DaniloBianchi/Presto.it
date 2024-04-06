@@ -1,0 +1,1 @@
+<p><a href="{{ route('home') }}" class="btn btn-outline shadow bi bi-skip-backward-fill  rounded-5 montserrat "> Indietro </a></p>
